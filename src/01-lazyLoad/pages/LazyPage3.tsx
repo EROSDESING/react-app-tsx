@@ -3,7 +3,7 @@ import React from 'react'
 export const LazyPage3 = () => {
     return (
         <div>
-            LazyPage 3
+          <h2>  LazyPage 3</h2>
         </div>
     )
 }

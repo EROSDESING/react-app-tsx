@@ -1,10 +1,10 @@
 import React from 'react'
 
 export const LazyPage1 = () => {
-    return (
-        <div>
-            LazyPage 1 
-        </div>
-    )
+  return (
+    <div>
+      <h2> LazyPage 1 </h2>
+    </div>
+  )
 }
 export default LazyPage1
